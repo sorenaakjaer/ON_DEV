@@ -1976,6 +1976,9 @@ $(document).one("trigger::vue_loaded", function () {
 						case "Contract":
 							s = "Kontrakter";
 							break;
+						case "OpenAnalytics":
+							s = "OpenAnalytics";
+							break;
 						case "Invoice":
 							s = "Fakturaer";
 							break;
